@@ -22,6 +22,12 @@ This lab is a huge step forward for me—it bridges everything I’ve learned ab
 
 ---
 
+## 🌍 Remote Access
+
+One of my favorite features so far is secure remote access. I installed WireGuard directly on OPNsense and configured it on both my laptop and phone. Now I can access my Proxmox dashboard, self-hosted services, or even SSH into machines from anywhere all while keeping things encrypted and safe.
+
+---
+
 ## 🚧 Goals & Future Plans  
 - Host a Paperless-NGX document system  
 - Set up internal DNS and VLAN segmentation  
