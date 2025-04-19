@@ -10,6 +10,9 @@ This system is just getting started! Here’s what I plan to expand into soon:
 - 🔲 Implement VLANs to separate devices (IoT, personal, guest, servers)
 - 🚦 Advanced OPNsense firewall rules for tighter security
 - 🌍 Set up Dynamic DNS for remote access
+- 🟢 Expand WireGuard access control lists for more fine-tuned remote access
+- 📱 Add a killswitch and auto-connect on mobile clients
+- 🔐 Enable MFA and better logs for VPN sessions
 
 ---
 
